@@ -10,9 +10,13 @@ Basis Point Spread indicates the additional return a mutual fund would give over
  After completing this project you will have better understanding of how to apply linear model using GridsearchCV.
 
 Chi square contengency test
+
 Box plot
+
 Linear regression
+
 GridsearchCV
+
 Ridge and Lasso Regressor
 
 
